@@ -1,0 +1,12 @@
+@import './__logo/header__logo.css';
+@import './__lang-list/header__lang-list.css';
+@import './__lang-item/header__lang-item.css';
+@import './__lang-link/header__lang-link.css';
+@import './__lang-link/_active/header__lang-link_active.css';
+
+.header {
+  margin: 30px 128px 0;
+  display: flex;
+  justify-content: space-between;
+  color: #FFFFFF;
+}
