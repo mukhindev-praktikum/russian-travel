@@ -1,3 +1,10 @@
 @import '../blocks/root/root.css';
 @import '../blocks/page/page.css';
 @import '../blocks/header/header.css';
+@import '../blocks/lead/lead.css';
+@import '../blocks/intro/intro.css';
+
+
+/* {
+  background-color: #8e853626;
+} */

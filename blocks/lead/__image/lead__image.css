@@ -1,0 +1,20 @@
+.lead__image {
+  width: 984px;
+  height: 615px;
+  background-image: url(../../../images/lead/__image.jpg);
+  background-size: cover;
+  margin-top: 64px;
+  position: relative;
+}
+
+.lead__image::before {
+  content: '';
+  width: 100%;
+  height: 100%;
+  display: block;
+  position: absolute;
+  background-image: url(../../../images/lead/__map.svg);
+  background-position: 50% 26%;
+  background-repeat: no-repeat;
+  background-size: 95.5%;
+}
