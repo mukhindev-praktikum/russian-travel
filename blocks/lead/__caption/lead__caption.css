@@ -5,6 +5,12 @@
   line-height: 14px;  
   letter-spacing: 0.15em;
   text-transform: uppercase;
-  width: 984px;
-  margin-top: 8px;
+  margin: 8px 0 0;
+  align-self: flex-start;
+}
+
+@media (max-width : 768px) {
+  .lead__caption {
+    margin-left: 24px;
+  }
 }

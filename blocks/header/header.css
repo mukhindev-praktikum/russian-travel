@@ -5,20 +5,20 @@
 @import './__lang-link/_active/header__lang-link_active.css';
 
 .header {
-  margin: 28px 48px 0;
+  padding: 28px 48px 0;
   display: flex;
   justify-content: space-between;
   color: #FFFFFF;
 }
 
-@media (max-width : 1024px) {
-
-}
-
 @media (max-width : 768px) {
-
+  .header {
+    padding: 28px 24px 0;
+  }
 }
 
 @media (max-width : 320px) {
-
+  .header {
+    padding: 28px 24px 0;
+  }
 }

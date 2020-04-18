@@ -8,6 +8,6 @@
   transition: opacity 0.25s;
 }
 
-.header__lang-hover {
+.header__lang-link:hover {
   opacity: 0.8;
 }

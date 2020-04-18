@@ -1,20 +1,29 @@
 .lead__image {
-  width: 984px;
-  height: 615px;
+  width: 100%;
+  padding-bottom: calc(100% / 1.6);
   background-image: url(../../../images/lead/__image.jpg);
-  background-size: cover;
+  background-size: contain;
+  background-repeat: no-repeat;
   margin-top: 64px;
   position: relative;
 }
 
 .lead__image::before {
   content: '';
-  width: 100%;
-  height: 100%;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
   display: block;
   position: absolute;
   background-image: url(../../../images/lead/__map.svg);
   background-position: 50% 26%;
   background-repeat: no-repeat;
   background-size: 95.5%;
+}
+
+@media (max-width : 1024px) {
+  .lead__image {
+    margin-top: 56px;
+  }
 }

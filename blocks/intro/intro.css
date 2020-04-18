@@ -5,7 +5,19 @@
 @import './__list-quantity/intro__list-quantity.css';
 
 .intro {
-  width: 984px;
-  margin: 86px auto 0;
+  margin: auto;
+  padding: 86px 148px 0;
   color: #FFFFFF;
+}
+
+@media (max-width : 1024px) {
+  .intro {
+    padding: 86px 48px 0;
+  }
+}
+
+@media (max-width : 768px) {
+  .intro {
+    padding: 92px 24px 0;
+  }
 }
