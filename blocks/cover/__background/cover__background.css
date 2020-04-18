@@ -1,0 +1,7 @@
+.cover__background {
+  width: 100%;
+  padding-bottom: calc(100% / 1.6);
+  background-image: url(../../../images/cover/__background.jpg);
+  background-size: contain;
+  background-repeat: no-repeat;
+}

@@ -5,8 +5,8 @@
 @import '../blocks/intro/intro.css';
 @import '../blocks/photo-grid/photo-grid.css';
 @import '../blocks/places/places.css';
-
-
+@import '../blocks/cover/cover.css';
+@import '../blocks/footer/footer.css';
 
 /* {
   background-color: #8e853626;
