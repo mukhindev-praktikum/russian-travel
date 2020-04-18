@@ -4,13 +4,13 @@
 @import './__subtitle/cover__subtitle.css';
 
 .cover {
-  margin: 86px 48px 0;
+  margin: 98px 48px 0;
   position: relative;
   color: #FFFFFF;
 }
 
 @media (max-width : 1024px) {
   .cover {
-    margin: 84px 0 0;
+    margin: 96px 0 0;
   }
 }

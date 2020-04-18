@@ -9,13 +9,14 @@
 
 .places {
   list-style: none;
-  padding: 0 148px 0;
+  padding: 6px 148px 0;
+  margin: 0;
   color: #FFFFFF;
 }
 
 @media (max-width : 1024px) {
   .places {
-    padding: 0 48px 0;
+    padding: 6px 48px 0;
   }
 }
 

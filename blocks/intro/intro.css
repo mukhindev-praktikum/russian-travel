@@ -6,13 +6,13 @@
 
 .intro {
   margin: auto;
-  padding: 86px 148px 0;
+  padding: 95px 148px 0;
   color: #FFFFFF;
 }
 
 @media (max-width : 1024px) {
   .intro {
-    padding: 86px 48px 0;
+    padding: 95px 48px 0;
   }
 }
 
