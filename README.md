@@ -18,4 +18,4 @@ https://mukhindev-praktikum.github.io/russian-travel/
 
 ## Технологии
 
-HTML, CSS (Flex, Grid, BEM, CSS Animations)
+HTML, CSS (Flex, Grid, BEM)
