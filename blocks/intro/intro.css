@@ -10,19 +10,19 @@
   color: #FFFFFF;
 }
 
-@media (max-width : 1024px) {
+@media (max-width: 1024px) {
   .intro {
     padding: 95px 48px 0;
   }
 }
 
-@media (max-width : 768px) {
+@media (max-width: 768px) {
   .intro {
     padding: 92px 24px 0;
   }
 }
 
-@media (max-width : 320px) {
+@media (max-width: 320px) {
   .intro {
     padding: 66px 16px 0;
   }

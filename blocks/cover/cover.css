@@ -9,13 +9,13 @@
   color: #FFFFFF;
 }
 
-@media (max-width : 1024px) {
+@media (max-width: 1024px) {
   .cover {
     margin: 96px 0 0;
   }
 }
 
-@media (max-width : 320px) {
+@media (max-width: 320px) {
   .cover {
     margin: 71px 0 0;
   }

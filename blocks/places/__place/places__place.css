@@ -1,37 +1,34 @@
 .places__place {
   display: grid;
-  grid-template-columns: minmax(min-content, 460px) minmax(min-content, 484px);
+  grid-template-columns: calc(46.7%) auto;
   row-gap: 48px;
   column-gap: 40px;
   margin-top: 80px;
 }
 
-@media (max-width : 1024px) {
+@media (max-width: 1024px) {
   .places__place {
-    grid-template-columns: minmax(min-content, 440px) minmax(min-content, 456px);
+    grid-template-columns: calc(47.5%) auto;
     column-gap: 32px;
-    margin-top: 80px;
   }
 }
 
-@media (max-width : 768px) {
+@media (max-width: 768px) {
   .places__place {
-    grid-template-columns: minmax(min-content, 340px) minmax(min-content, 352px);
+    grid-template-columns: calc(47.3%) auto;
     column-gap: 28px;
     margin-top: 74px;
   }
 }
 
-@media (max-width : 720px) {
+@media (max-width: 720px) {
   .places__place {
     grid-template-columns: auto;
-    margin-top: 74px;
   }
 }
 
-@media (max-width : 320px) {
+@media (max-width: 320px) {
   .places__place {
-    grid-template-columns: auto;
     row-gap: 32px;
     margin-top: 45px;
   }

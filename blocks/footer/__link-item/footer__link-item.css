@@ -2,7 +2,7 @@
   margin-right: 19px;
 }
 
-@media (max-width : 720px) {
+@media (max-width: 720px) {
   .footer__link-item {
     margin-right: 0px;
     margin-bottom: 32px;

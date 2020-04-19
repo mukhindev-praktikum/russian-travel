@@ -9,11 +9,6 @@
   z-index: 1;
 }
 
-@media (max-width: 768px) {
-  .cover__title {
-  }
-}
-
 @media (max-width: 720px) {
   .cover__title {
     font-size: calc(11vw);

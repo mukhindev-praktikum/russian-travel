@@ -7,7 +7,7 @@
   margin: 32px 0 0;
 }
 
-@media (max-width : 720px) {
+@media (max-width: 720px) {
   .lead__subtitle {
     font-size: calc(4vw);
     line-height: normal;
@@ -15,7 +15,7 @@
   }
 }
 
-@media (max-width : 320px) {
+@media (max-width: 320px) {
   .lead__subtitle {
     margin: 22px 0 0;
     font-size: 16px;
