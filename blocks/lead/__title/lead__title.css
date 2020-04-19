@@ -12,7 +12,6 @@
   .lead__title {
     font-size: calc(12vw);
     line-height: normal;
-    max-width: 80%;
   }
 }
 
@@ -20,6 +19,5 @@
   .lead__title {
     font-size: 40px;
     line-height: 44px;
-    max-width: 100%;
   }
 }
