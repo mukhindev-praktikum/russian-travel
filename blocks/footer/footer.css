@@ -23,3 +23,9 @@
     align-items: flex-start;
   }
 }
+
+@media (max-width : 320px) {
+  .footer {
+    padding: 64px 16px 24px;
+  }
+}

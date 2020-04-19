@@ -14,3 +14,9 @@
     margin: 96px 0 0;
   }
 }
+
+@media (max-width : 320px) {
+  .cover {
+    margin: 71px 0 0;
+  }
+}

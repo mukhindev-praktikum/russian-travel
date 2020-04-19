@@ -21,3 +21,11 @@
     row-gap: 16px;
   }
 }
+
+@media (max-width : 320px) {
+  .photo-grid {
+    padding: 64px 16px 0;
+    grid-template-columns: repeat(1, auto);
+    row-gap: 12px;
+  }
+}
