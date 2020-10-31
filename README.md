@@ -1,6 +1,6 @@
 # Путешествие по России
 
-https://mukhindev-praktikum.github.io/russian-travel/
+https://mukhindev.github.io/russian-travel/
 
 
 ## Что это?
